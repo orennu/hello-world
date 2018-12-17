@@ -1,7 +1,7 @@
 #print hello
-def hello():
-  return "hello world!"
+def hello(name):
+    return "%s say: hello world!" % name
 
 for i in range(0, 4):
-    print(hello()) 
+    print(hello("oren")) 
 
