@@ -1,6 +1,6 @@
 #print hello
 def hello():
-  print "hello world!"
+  return "hello world!"
 
 for i in range(0, 4):
     print hello()  #this is a bug
