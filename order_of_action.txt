@@ -1,0 +1,19 @@
+normal flow
+---------------
+1. clone (on first time)
+2. make changes
+3. add changed files
+4. commit
+5. pull
+6. push
+
+conflicts flow
+---------------
+1. make changes
+2. add changed files
+3. commit
+4. pull
+5. fix conflicts
+6. add fixed files
+7. commit
+8. push
